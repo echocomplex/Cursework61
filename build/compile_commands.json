@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/mac/Documents/project-codes/C++/Cursework61/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++2b -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/Cursework.dir/main.cpp.o -c /Users/mac/Documents/project-codes/C++/Cursework61/main.cpp",
+  "file": "/Users/mac/Documents/project-codes/C++/Cursework61/main.cpp",
+  "output": "CMakeFiles/Cursework.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/mac/Documents/project-codes/C++/Cursework61/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++2b -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/Cursework.dir/Student.cpp.o -c /Users/mac/Documents/project-codes/C++/Cursework61/Student.cpp",
+  "file": "/Users/mac/Documents/project-codes/C++/Cursework61/Student.cpp",
+  "output": "CMakeFiles/Cursework.dir/Student.cpp.o"
+},
+{
+  "directory": "/Users/mac/Documents/project-codes/C++/Cursework61/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++2b -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -o CMakeFiles/Cursework.dir/University.cpp.o -c /Users/mac/Documents/project-codes/C++/Cursework61/University.cpp",
+  "file": "/Users/mac/Documents/project-codes/C++/Cursework61/University.cpp",
+  "output": "CMakeFiles/Cursework.dir/University.cpp.o"
+}
+]
